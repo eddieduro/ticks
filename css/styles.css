@@ -1,0 +1,28 @@
+.table > tbody > tr > td {
+  padding: 120px 100px;
+  margin: 0;
+}
+
+.space {
+  margin: 20px;
+  background-color: #ccc;
+}
+
+button {
+  padding: 30px 80px 30px 80px;
+  margin-left: 36.48%;
+  border-radius: 10px;
+  background-color: tomato;
+  color: #fff;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  outline: none;
+}
+
+button:hover {
+  background-color: firebrick;
+}
+
+.div-btn {
+  margin-bottom: 50px;
+}
